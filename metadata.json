@@ -1,0 +1,8 @@
+{
+  "name": "Remix Light Your Diyas - Deepavali Celebrations",
+  "description": "Celebrate Deepavali by lighting digital diyas, creating custom greeting cards, playing virtual fireworks, and exploring sacred rangolis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
